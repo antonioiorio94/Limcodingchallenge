@@ -1,0 +1,85 @@
+body{
+  background-image: url("file:///C:/Users/USER/Desktop/BOOLEAN/CODING%20CHALLENGE/background.jpg");
+  background-size:100%;
+  background-repeat:no-repeat;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.centralsquare {
+   background-color: rgba(0, 10, 0, 0.5);
+   font-family: arial;
+   width: 1500px;
+   height: 1000px;
+   margin: auto;
+   margin-top: 100px;
+   margin-bottom: 50px;
+   border-radius: 20px
+}
+
+.logo{
+  width:250px;
+  margin-top: 100px;
+  margin-left: 650px
+}
+
+
+.title{
+  color:#00dd00;
+  text-align: center;
+}
+
+.greenstripe{
+  background-color: #00dd00;
+  height:50px;
+  text-align: center;
+  margin-top: auto;
+  padding-top: 15px;
+  margin-left: 50px;
+  margin-right: 50px
+}
+
+.monopattino{
+  margin-left: 50px
+}
+
+.Gino22 {
+  display: inline-block;
+  color:white;
+  }
+
+.via{
+  color: white;
+  margin-top: -10px
+}
+
+.carica{
+  color: white;
+  margin-top: -10px
+}
+
+.yellow-box{
+  height: 50px;
+  width: 300px;
+  background-color:yellow;
+  margin-top: -15px;
+  border-radius: 10px
+}
+
+.green-box{
+  height: 50px;
+  width: 600px;
+  background-color:#00dd00;
+  margin-top: -15px;
+  border-radius: 10px
+}
+
+.red-box{
+  height: 50px;
+  width: 100px;
+  background-color:red;
+  margin-top: -15px;
+  border-radius: 10px
+}
